@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
+@CrossOrigin(origins = "https://log-parser-frontend.vercel.app")
 @RestController
 @RequestMapping("/process-logs")
 public class LogProcessingController {
