@@ -13,3 +13,5 @@
 2025-01-04 10:52:35,448 --> org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] :: INFO --> Initializing Spring DispatcherServlet 'dispatcherServlet'
 2025-01-04 10:52:35,449 --> org.springframework.web.servlet.DispatcherServlet :: INFO --> Initializing Servlet 'dispatcherServlet'
 2025-01-04 10:52:35,454 --> org.springframework.web.servlet.DispatcherServlet :: INFO --> Completed initialization in 4 ms
+2025-01-04 11:00:21,160 --> com.log.logparser.controler.LogController :: INFO --> Generating log file...
+2025-01-04 11:00:21,206 --> com.log.logparser.controler.LogController :: INFO --> Log file generation complete.
